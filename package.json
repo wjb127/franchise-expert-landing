@@ -1,0 +1,39 @@
+{
+  "name": "franchise-consultant-landing",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.1.6",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.31.0",
+    "eslint-config-next": "^15.4.3",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11",
+    "typescript": "^5.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjb127/franchise-expert-landing.git"
+  },
+  "keywords": ["franchise", "consultant", "landing", "nextjs"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjb127/franchise-expert-landing/issues"
+  },
+  "homepage": "https://github.com/wjb127/franchise-expert-landing#readme",
+  "description": "가맹거래사 전문 컨설팅 랜딩페이지"
+}
