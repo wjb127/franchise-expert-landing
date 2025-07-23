@@ -169,8 +169,8 @@ export default function Home() {
                   </div>
                   
                   <p className="text-gray-600 leading-relaxed">
-                    "가맹사업의 성공은 올바른 계약과 투명한 관계에서 시작됩니다. 
-                    저의 경험과 전문성으로 고객님의 소중한 사업을 지켜드리겠습니다."
+                    &ldquo;가맹사업의 성공은 올바른 계약과 투명한 관계에서 시작됩니다. 
+                    저의 경험과 전문성으로 고객님의 소중한 사업을 지켜드리겠습니다.&rdquo;
                   </p>
                 </div>
               </div>
