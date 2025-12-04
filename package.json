@@ -9,7 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "^15.1.6",
+    "@supabase/supabase-js": "^2.52.0",
+    "next": "^15.1.9",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
@@ -29,7 +30,12 @@
     "type": "git",
     "url": "git+https://github.com/wjb127/franchise-expert-landing.git"
   },
-  "keywords": ["franchise", "consultant", "landing", "nextjs"],
+  "keywords": [
+    "franchise",
+    "consultant",
+    "landing",
+    "nextjs"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
