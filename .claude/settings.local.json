@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npx create-playwright-mcp:*)",
+      "Bash(git clone:*)",
+      "Bash(npm run build:*)",
+      "Bash(claude mcp add:*)",
+      "Bash(npm run dev:*)",
+      "Bash(curl:*)",
+      "WebFetch(domain:localhost)",
+      "Bash(npx tailwindcss:*)",
+      "Bash(node_modules/.bin/tailwindcss:*)",
+      "Bash(rm:*)",
+      "Bash(browser_navigate http://localhost:3002)",
+      "Bash(pkill:*)"
+    ],
+    "deny": []
+  }
+}
